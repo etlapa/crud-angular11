@@ -10,3 +10,4 @@ angular-10-crud-bootstrap-tutorial.pdf
 Step so far:
 Step 1 — Creating a New Angular 11 Project
 Step 2 — Generating Angular 11 CRUD Components and Service
+Step 3 — Importing FormsModule and HttpClientModule
