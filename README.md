@@ -27,3 +27,4 @@ Step 6 — Creating an Angular 10 CRUD Service
 	Altough the services create/update work with 'any' as parameter, an interface (IProduct) and a class (Product) were added to avoid the use of 'raw' data
 Step 7 — Implementing the Angular 10 CRUD Components. This step was split as shown below:
 	a) Creating a New Product Component
+	b) Displaying the List of Products Component
