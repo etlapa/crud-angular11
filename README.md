@@ -11,3 +11,5 @@ Step so far:
 Step 1 — Creating a New Angular 11 Project
 Step 2 — Generating Angular 11 CRUD Components and Service
 Step 3 — Importing FormsModule and HttpClientModule
+Step 4 — Adding Routes for the CRUD Components
+
