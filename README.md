@@ -23,4 +23,6 @@ Step 4 — Adding Routes for the CRUD Components. Plus the following steps:
               "./node_modules/jquery/dist/jquery.js",
               "./node_modules/bootstrap/dist/js/bootstrap.js"
             ]
+Step 6 — Creating an Angular 10 CRUD Service
+	Altough the services create/update work with 'any' as parameter, an interface (IProduct) and a class (Product) were added to avoid the use of 'raw' data
 
